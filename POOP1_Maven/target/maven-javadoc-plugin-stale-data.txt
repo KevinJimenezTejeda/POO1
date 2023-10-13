@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'D:/JavaPoyects/POOP1_Maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/JavaPoyects/POOP1_Maven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOP1_Maven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'POOP1_Maven 1.0-SNAPSHOT API'
+com.mycompany.poop1_maven
+D:\JavaPoyects\POOP1_Maven\src\main\java = 1693536005685
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\allclasses-index.html = 1697167307024
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\allpackages-index.html = 1697167307027
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\copy.svg = 1697167307275
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\element-list = 1697167306871
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\help-doc.html = 1697167307247
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\index-all.html = 1697167307233
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\index.html = 1697167307241
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\member-search-index.js = 1697167307098
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\module-search-index.js = 1697167307029
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\overview-tree.html = 1697167307011
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\package-search-index.js = 1697167307032
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\script.js = 1697167307274
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\search-page.js = 1697167307280
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\search.html = 1697167307238
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\search.js = 1697167307278
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\stylesheet.css = 1697167307272
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\tag-search-index.js = 1697167307121
+D:\JavaPoyects\POOP1_Maven\target\site\apidocs\type-search-index.js = 1697167307034
