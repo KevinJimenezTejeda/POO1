@@ -1,0 +1,44 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'20'
+-sourcepath
+'D:/Escuela}/POOPRactica3/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Escuela}/POOPRactica3/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'POOPRactica3 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'POOPRactica3 1.0-SNAPSHOT API'
+com.mycompany.poopractica3
+D:\Escuela}\POOPRactica3\src\main\java = 1695262766613
+D:\Escuela}\POOPRactica3\target\site\apidocs\allclasses-index.html = 1697166182233
+D:\Escuela}\POOPRactica3\target\site\apidocs\allpackages-index.html = 1697166182237
+D:\Escuela}\POOPRactica3\target\site\apidocs\copy.svg = 1697166182271
+D:\Escuela}\POOPRactica3\target\site\apidocs\element-list = 1697166182163
+D:\Escuela}\POOPRactica3\target\site\apidocs\help-doc.html = 1697166182264
+D:\Escuela}\POOPRactica3\target\site\apidocs\index-all.html = 1697166182254
+D:\Escuela}\POOPRactica3\target\site\apidocs\index.html = 1697166182259
+D:\Escuela}\POOPRactica3\target\site\apidocs\member-search-index.js = 1697166182243
+D:\Escuela}\POOPRactica3\target\site\apidocs\module-search-index.js = 1697166182238
+D:\Escuela}\POOPRactica3\target\site\apidocs\overview-tree.html = 1697166182217
+D:\Escuela}\POOPRactica3\target\site\apidocs\package-search-index.js = 1697166182240
+D:\Escuela}\POOPRactica3\target\site\apidocs\script.js = 1697166182269
+D:\Escuela}\POOPRactica3\target\site\apidocs\search-page.js = 1697166182276
+D:\Escuela}\POOPRactica3\target\site\apidocs\search.html = 1697166182256
+D:\Escuela}\POOPRactica3\target\site\apidocs\search.js = 1697166182273
+D:\Escuela}\POOPRactica3\target\site\apidocs\stylesheet.css = 1697166182267
+D:\Escuela}\POOPRactica3\target\site\apidocs\tag-search-index.js = 1697166182244
+D:\Escuela}\POOPRactica3\target\site\apidocs\type-search-index.js = 1697166182241
